@@ -14,11 +14,10 @@
 
 ## 📊 GitHub Stats
 
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kumarv34605-star&show_icons=true&cache_seconds=1800)
-
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kumarv34605-star&show_icons=true)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kumarv34605-star&layout=compact)
+
 
 
 ---
