@@ -14,9 +14,9 @@
 
 ## 📊 GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=kumarv34605-star&show_icons=true&count_private=true" />
+![Vishal's GitHub stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=kumarv34605-star&theme=github_dark)
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kumarv34605-star&layout=compact" />
+![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kumarv34605-star&theme=github_dark)
 
 
 
