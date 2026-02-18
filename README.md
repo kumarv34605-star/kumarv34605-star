@@ -17,6 +17,8 @@
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=kumarv34605-star&theme=github_dark" />
   <br>
+  ![GitHub Streak](https://streak-stats.demolab.com?user=kumarv34605-star&theme=github-dark)
+
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kumarv34605-star&theme=github_dark" />
 </p>
 
