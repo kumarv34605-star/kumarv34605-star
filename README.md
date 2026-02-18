@@ -14,9 +14,11 @@
 
 ## 📊 GitHub Stats
 
-![Vishal's GitHub stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=kumarv34605-star&theme=github_dark)
-
-![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kumarv34605-star&theme=github_dark)
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=kumarv34605-star&theme=github_dark" />
+  <br>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kumarv34605-star&theme=github_dark" />
+</p>
 
 
 
