@@ -64,11 +64,15 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=kumarv34605-star&theme=github_dark" />
-  <br><br>
+  <img src="https://github-readme-stats.vercel.app/api?username=kumarv34605-star&show_icons=true&theme=github_dark_dimmed" />
+</p>
+
+<p align="center">
   <img src="https://streak-stats.demolab.com?user=kumarv34605-star&theme=github-dark" />
-  <br><br>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kumarv34605-star&theme=github_dark" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kumarv34605-star&layout=compact&theme=github_dark_dimmed" />
 </p>
 
 ---
