@@ -17,24 +17,25 @@
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠 Tech Stack
 
 ### Languages
-![Languages](https://skillicons.dev/icons?i=python,cpp,js)
+![Languages](https://skillicons.dev/icons?i=python,mysql)
 
-### AI & Machine Learning
-![AI](https://skillicons.dev/icons?i=tensorflow)
+### Machine Learning
+**Libraries:** NumPy • Pandas • Scikit-Learn
 
-**Libraries:** NumPy • Pandas • Scikit-Learn • Matplotlib
+### Currently Learning
+TensorFlow • PyTorch • Deep Learning
 
-### Backend & APIs
-![Backend](https://skillicons.dev/icons?i=flask,fastapi)
+### Backend
+Flask
 
 ### Databases
-![Database](https://skillicons.dev/icons?i=mysql,postgres,mongodb)
+MySQL
 
-### DevOps & Tools
-![Tools](https://skillicons.dev/icons?i=git,github,docker,linux,vscode)
+### Tools
+Git • GitHub • Docker • Linux • VS Code
 
 ---
 
