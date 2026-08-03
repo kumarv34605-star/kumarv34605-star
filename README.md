@@ -73,33 +73,7 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=kumarv34605-star&theme=github_dark" />
-  <br><br>
-  <img src="https://streak-stats.demolab.com?user=kumarv34605-star&theme=github-dark" />
-  <br><br>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kumarv34605-star&theme=github_dark" />
-</p>
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=kumarv34605-star&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
-
-<img height="170" src="https://streak-stats.demolab.com?user=kumarv34605-star&theme=tokyonight&hide_border=true"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kumarv34605-star&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
-
-</p>
+## 📊 GitHub Stats <p align="center"> <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=kumarv34605-star&theme=github_dark" /> <br><br> <img src="https://streak-stats.demolab.com?user=kumarv34605-star&theme=github-dark" /> <br><br> <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kumarv34605-star&theme=github_dark" /> </p>
 
 ---
 
