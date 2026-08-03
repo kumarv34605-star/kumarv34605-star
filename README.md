@@ -85,10 +85,20 @@
 
 ---
 
-## 📈 GitHub Activity
+## 📊 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=kumarv34605-star&theme=github-dark&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=kumarv34605-star&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
+
+<img height="170" src="https://streak-stats.demolab.com?user=kumarv34605-star&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kumarv34605-star&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
+
 </p>
 
 ---
