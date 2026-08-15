@@ -1,63 +1,91 @@
 # Hi 👋, I'm Vishal Kumar
 
 ### 🚀 Aspiring AI Engineer | Building Machine Learning & AI Applications
-🎓 Final Year B.Tech Student (Artificial Intelligence & Machine Learning) • Graduating 2027
+
+🎓 Final Year B.Tech Student — Artificial Intelligence & Machine Learning • Graduating 2027
 
 ---
 
 ## 👨‍💻 About Me
-- 🤖 Passionate about building AI applications that solve real-world problems
-- 🧠 Currently learning Machine Learning, Deep Learning, LLMs and AI Engineering
-- 💻 Solving Data Structures & Algorithms using Python
-- ⚙️ Exploring Backend Development, MLOps and AI Infrastructure
-- 🌱 Learning by building projects and contributing to Open Source
-- 🎯 Aspiring to build scalable AI systems and work on impactful AI products
+
+* 🤖 Interested in building practical AI and Machine Learning applications
+* 🧠 Learning Machine Learning, Deep Learning, LLMs and AI Engineering
+* 🐍 Building projects primarily with Python
+* ⚙️ Exploring Backend Development, MLOps and AI Infrastructure
+* 🐳 Learning to build, containerize and deploy ML applications
+* 🌱 Learning through projects, problem solving and Open Source contributions
+* 🎯 Working towards becoming a strong AI/ML Engineer
 
 ---
 
 ## 🛠️ Tech Stack
 
 ### Languages
-![Languages](https://skillicons.dev/icons?i=python,mysql)
 
-### Machine Learning
-**Libraries:** NumPy • Pandas • Scikit-Learn • Matplotlib
+![Python](https://skillicons.dev/icons?i=python)
+
+**Python** • **SQL**
+
+### Machine Learning & Data Science
+
+**NumPy** • **Pandas** • **Scikit-Learn** • **Matplotlib**
 
 ### Backend
-![Backend](https://skillicons.dev/icons?i=flask)
 
-### Tools
+![Flask](https://skillicons.dev/icons?i=flask)
+
+**Flask** • REST APIs
+
+### Databases
+
+![Databases](https://skillicons.dev/icons?i=mysql,postgres)
+
+**MySQL** • PostgreSQL *(learning)*
+
+### DevOps & Tools
+
 ![Tools](https://skillicons.dev/icons?i=git,github,docker,linux,vscode)
 
+**Git** • **GitHub** • **Docker** • **Linux** • **VS Code**
+
 ### Currently Learning
-- Deep Learning
-- TensorFlow
-- PyTorch
-- FastAPI
-- PostgreSQL
-- MongoDB
-- MLOps
-- LLMs & RAG
+
+* Deep Learning
+* TensorFlow
+* PyTorch
+* FastAPI
+* PostgreSQL
+* MongoDB
+* MLOps
+* LLMs & RAG
 
 ---
 
 ## 🚀 Current Focus
-- 🧠 Machine Learning
-- 🤖 Deep Learning
-- ⚡ AI Infrastructure
-- 🔄 MLOps
-- 💻 DSA using Python
-- 🌍 Open Source Contributions
+
+* 🧠 Machine Learning Engineering
+* 🤖 Deep Learning
+* ⚡ AI Infrastructure
+* 🔄 MLOps
+* 🐳 Docker & Backend Development
+* 💻 Data Structures & Algorithms
+* 🌍 Open Source Contributions
 
 ---
 
 ## 🌟 Featured Projects
-- 🚀 [Machine Learning Pipeline](#)
-- 🚀 [Customer Churn Prediction](#)
-- 🚀 [Thermal Image Classification](#)
-- 🚀 [AI/ML Projects](#)
 
-> More projects coming soon...
+* 🚀 [Customer Churn Pipeline](https://github.com/kumarv34605-star/Customer-Churn-Pipeline)
+  End-to-end machine learning pipeline for customer churn prediction.
+
+* 🔥 [Loggable File Analyzer](https://github.com/kumarv34605-star/loggable-file-analyzer)
+  Python CLI project focused on structured logging, testing and maintainable application design.
+
+* 🌦️ [Flask FWI Prediction](https://github.com/kumarv34605-star/Flask-FWI-Prediction)
+  Machine learning application for Fire Weather Index prediction using Flask.
+
+* 🧠 [MNIST From Scratch](https://github.com/kumarv34605-star/mnist-from-scratch)
+  Exploring neural networks and machine learning fundamentals by implementing concepts from scratch.
 
 ---
 
@@ -77,6 +105,18 @@
 
 ---
 
+## 🌱 What I'm Working Towards
+
+Building a strong foundation across:
+
+**AI/ML → Deep Learning → MLOps → AI Infrastructure**
+
+while improving my:
+
+**DSA → Backend Development → Systems & Engineering Skills**
+
+---
+
 ## 📫 Connect With Me
 
 <p align="left">
@@ -87,19 +127,9 @@
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
   </a>
   <a href="https://github.com/kumarv34605-star" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github" />
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
-
----
-
-## 💡 Currently Exploring
-- Machine Learning Engineering
-- AI Infrastructure
-- MLOps
-- LLM Applications
-- Distributed Systems
-- Open Source
 
 ---
 
