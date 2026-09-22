@@ -166,7 +166,34 @@ Exploring open-source development and learning how real-world software is built,
 🔗 [GitHub Profile](https://github.com/kumarv34605-star)
 
 ---
+---
 
+## 📊 GitHub Activity
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kumarv34605-star&theme=github_dark" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=kumarv34605-star&theme=github-dark" />
+</p>
+
+---
+
+## 🐍 Contribution Activity
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/kumarv34605-star/kumarv34605-star/output/github-contribution-grid-snake-dark.svg" />
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=kumarv34605-star&theme=darkhub&no-frame=true&no-bg=true&margin-w=5" />
+</p>
+---
 ## 📫 Connect With Me
 
 <p align="left">
