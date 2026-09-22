@@ -1,182 +1,190 @@
-![Python](https://img.shields.io/badge/Language-Python-blue)
-![DSA](https://img.shields.io/badge/Focus-Data%20Structures%20%26%20Algorithms-green)
-![LeetCode](https://img.shields.io/badge/LeetCode-395%20Solved-orange)
-![Interview Prep](https://img.shields.io/badge/Focus-Technical%20Interviews-purple)
+# Hi 👋, I'm Vishal Kumar
 
-# 🚀 DSA & Interview Preparation
+### 🚀 Aspiring AI Engineer | Machine Learning • MLOps • AI Infrastructure
 
-Hi, I'm **Vishal Kumar** 👋
-
-🎓 Final Year B.Tech Student — Artificial Intelligence & Machine Learning  
-🐍 Solving Data Structures & Algorithms primarily using Python  
-🎯 Preparing for software engineering and AI/ML technical interviews
-
-This repository documents my DSA practice, problem-solving patterns, approaches, and solutions as I prepare for technical interviews.
+🎓 Final Year B.Tech Student — Artificial Intelligence & Machine Learning • Graduating 2027
 
 ---
 
-## 📊 Current Progress
+## 👨‍💻 About Me
+
+- 🤖 Building practical Machine Learning and AI applications
+- 🧠 Learning Deep Learning, LLMs, MLOps and AI Engineering
+- 🐍 Working primarily with Python for ML, backend and automation
+- ⚙️ Exploring AI Infrastructure and production ML systems
+- 🔎 Building RAG and LLM-based applications
+- 🐳 Learning to build, containerize and deploy ML applications
+- 🌍 Exploring Open Source and real-world software engineering
+- 💻 Solving Data Structures & Algorithms consistently using Python
+
+---
+
+## 🛠️ Tech Stack
+
+### Languages
+**Python** • **SQL**
+
+### Machine Learning & Data Science
+**NumPy** • **Pandas** • **Scikit-Learn** • **Matplotlib**
+
+### AI & LLMs
+**Embeddings** • **RAG** • **Sentence Transformers** • **ChromaDB**
+
+### Backend & APIs
+**Flask** • **FastAPI (Learning)** • **REST APIs**
+
+### Databases
+**MySQL** • **PostgreSQL (Learning)** • **MongoDB (Learning)**
+
+### DevOps & Tools
+**Git** • **GitHub** • **Docker** • **Linux** • **VS Code**
+
+### Currently Learning
+**Deep Learning** • **PyTorch** • **TensorFlow** • **MLflow** • **MLOps** • **LLMs** • **AI Infrastructure**
+
+---
+
+## 🚀 Current Focus
+
+- 🧠 Machine Learning Engineering
+- 🤖 Deep Learning & LLM Applications
+- 🔄 MLOps & ML Lifecycle
+- ⚡ AI Infrastructure
+- 🐳 Docker & Backend Development
+- 💻 Data Structures & Algorithms
+- 🌍 Open Source Contributions
+
+---
+
+## 🌟 Featured Projects
+
+### 🤖 AI Incident Intelligence & MLOps Platform
+
+End-to-end project exploring machine learning, incident detection, experiment tracking and MLOps workflows.
+
+**Focus:** Python • Machine Learning • MLflow • Docker • MLOps
+
+🔗 [View Repository](https://github.com/kumarv34605-star/ai-incident-platform)
+
+---
+
+### 🔎 AI Space Research Assistant
+
+RAG-based research assistant using document processing, embeddings and vector search to retrieve information from technical documents.
+
+**Focus:** RAG • Sentence Transformers • ChromaDB • Embeddings • LLMs
+
+🔗 [View Repository](https://github.com/kumarv34605-star/AI-Space-Research-Assistant)
+
+---
+
+### 📊 Customer Churn Pipeline
+
+Machine learning pipeline for predicting customer churn using a structured ML workflow.
+
+**Focus:** Python • Pandas • Scikit-Learn • Machine Learning
+
+🔗 [View Repository](https://github.com/kumarv34605-star/Customer-Churn-Pipeline)
+
+---
+
+### 🔥 Flask FWI Prediction
+
+Machine learning application for Fire Weather Index prediction with a Flask backend.
+
+**Focus:** Machine Learning • Scikit-Learn • Flask • REST API
+
+🔗 [View Repository](https://github.com/kumarv34605-star/Flask-FWI-Prediction)
+
+---
+
+### 🧰 Loggable File Analyzer
+
+Python CLI project focused on file analysis, structured logging and maintainable software design.
+
+**Focus:** Python • CLI • Logging • Software Engineering
+
+🔗 [View Repository](https://github.com/kumarv34605-star/loggable-file-analyzer)
+
+---
+
+### 🧠 MNIST From Scratch
+
+Exploring neural network fundamentals by implementing machine learning concepts from scratch.
+
+**Focus:** Python • NumPy • Neural Networks • Deep Learning
+
+🔗 [View Repository](https://github.com/kumarv34605-star/mnist-from-scratch)
+
+---
+
+## 💻 DSA & Problem Solving
+
+Building strong problem-solving skills alongside AI/ML development.
 
 ### LeetCode
 
-| Difficulty | Problems Solved |
-|------------|----------------:|
-| 🟢 Easy | **205** |
-| 🟡 Medium | **151** |
-| 🔴 Hard | **39** |
-| 📈 Total | **395** |
-
-### 🔥 Activity
-
-- 🧩 **395** problems solved
-- 📝 **785** submissions in the past year
-- 📅 **231** active days
-- 🔥 **147-day** maximum streak
+- 🧩 **395 problems solved**
+- 🟢 205 Easy
+- 🟡 151 Medium
+- 🔴 39 Hard
+- 🔥 **147-day maximum streak**
+- 📅 **231 active days**
 - 🏆 **200 Days Badge — 2026**
-- 📈 **1,579** contest rating
-- 🏁 **7** contests attended
+- 📈 Contest Rating: **1,579**
 
-> Progress is continuously updated as I solve and revisit problems.
-
----
-
-## 🧠 Topics
-
-### ✅ Practicing
-
-- Arrays
-- Strings
-- Hashing
-- Sorting
-- Searching
-- Two Pointers
-- Sliding Window
-- Prefix Sum
-- Binary Search
-- Recursion
-
-### 🔄 Strengthening
-
-- Linked Lists
-- Stack & Queue
-- Trees
-- Heaps
-- Graphs
-- Greedy Algorithms
-- Dynamic Programming
-
-### ⏳ Upcoming / Advanced
-
-- Backtracking
-- Tries
-- Advanced Graph Algorithms
-- Advanced Dynamic Programming
-- Advanced Problem-Solving Patterns
+🔗 [View LeetCode Profile](https://leetcode.com/u/VibeCoding01/)
 
 ---
 
-## 🗂️ Repository Structure
+## 🌱 Learning Path
 
 ```text
-DSA-Preparation/
-│
-├── Arrays/
-├── Strings/
-├── Hashing/
-├── Sorting/
-├── BinarySearch/
-├── LinkedList/
-├── StackQueue/
-├── Trees/
-├── Heaps/
-├── Graphs/
-├── Greedy/
-├── DynamicProgramming/
-├── Backtracking/
-└── README.md
+Machine Learning
+       ↓
+Deep Learning
+       ↓
+LLM Applications & RAG
+       ↓
+MLOps & ML Engineering
+       ↓
+AI Infrastructure
 ```
 
-The structure will evolve as I cover more topics.
-
----
-
-## 📝 How I Approach Problems
-
-The goal of this repository is not just to collect solutions.
-
-For each problem, I focus on:
-
-- 💡 Understanding the problem
-- 🧠 Identifying the underlying pattern
-- 🔍 Developing the approach
-- 💻 Implementing the solution in Python
-- ⏱️ Analyzing time complexity
-- 💾 Analyzing space complexity
-- 🧪 Considering edge cases
-- 🔁 Revisiting problems that I previously struggled with
-
-### Problem-Solving Process
+Alongside:
 
 ```text
-Understand
-    ↓
-Brute Force
-    ↓
-Identify Pattern
-    ↓
-Optimize
-    ↓
-Implement
-    ↓
-Analyze Complexity
-    ↓
-Review & Revisit
+DSA → Backend Development → Systems Fundamentals
 ```
 
 ---
 
-## 🎯 Current Goal
+## 🌍 Open Source
 
-My focus is shifting from simply increasing the number of solved problems toward **stronger problem-solving ability**.
+Exploring open-source development and learning how real-world software is built, reviewed and maintained.
 
-### The goal:
-
-**Pattern Recognition → Optimization → Implementation → Interview Readiness**
-
-I want to be able to approach unfamiliar problems instead of relying on memorized solutions.
+🔗 [GitHub Profile](https://github.com/kumarv34605-star)
 
 ---
 
-## 📚 What I'm Improving
+## 📫 Connect With Me
 
-- Problem-solving speed
-- Pattern recognition
-- Complexity analysis
-- Writing clean Python solutions
-- Explaining solutions clearly
-- Handling edge cases
-- Solving medium-level problems consistently
-- Revisiting mistakes and failed approaches
+<p align="left">
 
----
+<a href="https://www.linkedin.com/in/vishal-kumar-1247802ba/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
 
-## 🔗 Coding Profiles
+<a href="https://leetcode.com/u/VibeCoding01/">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+</a>
 
-- 💻 **LeetCode:** https://leetcode.com/u/VibeCoding01/
-- 🧑‍💻 **GitHub:** https://github.com/kumarv34605-star
+<a href="https://github.com/kumarv34605-star">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
 
----
-
-## 🚀 What's Next?
-
-- Continue solving DSA problems consistently
-- Strengthen Medium-level problems
-- Increase exposure to Hard problems
-- Complete remaining core DSA topics
-- Revisit previously solved problems
-- Practice timed problem solving
-- Prepare for technical interviews
+</p>
 
 ---
 
-> **Consistency → Understanding → Practice → Improvement 🚀**
+> *Learning, building, and improving one system at a time.*
