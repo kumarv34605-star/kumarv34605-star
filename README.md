@@ -1,136 +1,182 @@
-# Hi 👋, I'm Vishal Kumar
+![Python](https://img.shields.io/badge/Language-Python-blue)
+![DSA](https://img.shields.io/badge/Focus-Data%20Structures%20%26%20Algorithms-green)
+![LeetCode](https://img.shields.io/badge/LeetCode-395%20Solved-orange)
+![Interview Prep](https://img.shields.io/badge/Focus-Technical%20Interviews-purple)
 
-### 🚀 Aspiring AI Engineer | Building Machine Learning & AI Applications
+# 🚀 DSA & Interview Preparation
 
-🎓 Final Year B.Tech Student — Artificial Intelligence & Machine Learning • Graduating 2027
+Hi, I'm **Vishal Kumar** 👋
 
----
+🎓 Final Year B.Tech Student — Artificial Intelligence & Machine Learning  
+🐍 Solving Data Structures & Algorithms primarily using Python  
+🎯 Preparing for software engineering and AI/ML technical interviews
 
-## 👨‍💻 About Me
-
-* 🤖 Interested in building practical AI and Machine Learning applications
-* 🧠 Learning Machine Learning, Deep Learning, LLMs and AI Engineering
-* 🐍 Building projects primarily with Python
-* ⚙️ Exploring Backend Development, MLOps and AI Infrastructure
-* 🐳 Learning to build, containerize and deploy ML applications
-* 🌱 Learning through projects, problem solving and Open Source contributions
-* 🎯 Working towards becoming a strong AI/ML Engineer
+This repository documents my DSA practice, problem-solving patterns, approaches, and solutions as I prepare for technical interviews.
 
 ---
 
-## 🛠️ Tech Stack
+## 📊 Current Progress
 
-### Languages
+### LeetCode
 
-![Python](https://skillicons.dev/icons?i=python)
+| Difficulty | Problems Solved |
+|------------|----------------:|
+| 🟢 Easy | **205** |
+| 🟡 Medium | **151** |
+| 🔴 Hard | **39** |
+| 📈 Total | **395** |
 
-**Python** • **SQL**
+### 🔥 Activity
 
-### Machine Learning & Data Science
+- 🧩 **395** problems solved
+- 📝 **785** submissions in the past year
+- 📅 **231** active days
+- 🔥 **147-day** maximum streak
+- 🏆 **200 Days Badge — 2026**
+- 📈 **1,579** contest rating
+- 🏁 **7** contests attended
 
-**NumPy** • **Pandas** • **Scikit-Learn** • **Matplotlib**
-
-### Backend
-
-![Flask](https://skillicons.dev/icons?i=flask)
-
-**Flask** • REST APIs
-
-### Databases
-
-![Databases](https://skillicons.dev/icons?i=mysql,postgres)
-
-**MySQL** • PostgreSQL *(learning)*
-
-### DevOps & Tools
-
-![Tools](https://skillicons.dev/icons?i=git,github,docker,linux,vscode)
-
-**Git** • **GitHub** • **Docker** • **Linux** • **VS Code**
-
-### Currently Learning
-
-* Deep Learning
-* TensorFlow
-* PyTorch
-* FastAPI
-* PostgreSQL
-* MongoDB
-* MLOps
-* LLMs & RAG
+> Progress is continuously updated as I solve and revisit problems.
 
 ---
 
-## 🚀 Current Focus
+## 🧠 Topics
 
-* 🧠 Machine Learning Engineering
-* 🤖 Deep Learning
-* ⚡ AI Infrastructure
-* 🔄 MLOps
-* 🐳 Docker & Backend Development
-* 💻 Data Structures & Algorithms
-* 🌍 Open Source Contributions
+### ✅ Practicing
 
----
+- Arrays
+- Strings
+- Hashing
+- Sorting
+- Searching
+- Two Pointers
+- Sliding Window
+- Prefix Sum
+- Binary Search
+- Recursion
 
-## 🌟 Featured Projects
+### 🔄 Strengthening
 
-* 🚀 [Customer Churn Pipeline](https://github.com/kumarv34605-star/Customer-Churn-Pipeline)
-  End-to-end machine learning pipeline for customer churn prediction.
+- Linked Lists
+- Stack & Queue
+- Trees
+- Heaps
+- Graphs
+- Greedy Algorithms
+- Dynamic Programming
 
-* 🔥 [Loggable File Analyzer](https://github.com/kumarv34605-star/loggable-file-analyzer)
-  Python CLI project focused on structured logging, testing and maintainable application design.
+### ⏳ Upcoming / Advanced
 
-* 🌦️ [Flask FWI Prediction](https://github.com/kumarv34605-star/Flask-FWI-Prediction)
-  Machine learning application for Fire Weather Index prediction using Flask.
-
-* 🧠 [MNIST From Scratch](https://github.com/kumarv34605-star/mnist-from-scratch)
-  Exploring neural networks and machine learning fundamentals by implementing concepts from scratch.
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-stats-extended.vercel.app/api?username=kumarv34605-star&show_icons=true&theme=github_dark_dimmed" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=kumarv34605-star&theme=github-dark" />
-</p>
-
-<p align="center">
-  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=kumarv34605-star&layout=compact&theme=github_dark_dimmed" />
-</p>
+- Backtracking
+- Tries
+- Advanced Graph Algorithms
+- Advanced Dynamic Programming
+- Advanced Problem-Solving Patterns
 
 ---
 
-## 🌱 What I'm Working Towards
+## 🗂️ Repository Structure
 
-Building a strong foundation across:
+```text
+DSA-Preparation/
+│
+├── Arrays/
+├── Strings/
+├── Hashing/
+├── Sorting/
+├── BinarySearch/
+├── LinkedList/
+├── StackQueue/
+├── Trees/
+├── Heaps/
+├── Graphs/
+├── Greedy/
+├── DynamicProgramming/
+├── Backtracking/
+└── README.md
+```
 
-**AI/ML → Deep Learning → MLOps → AI Infrastructure**
-
-while improving my:
-
-**DSA → Backend Development → Systems & Engineering Skills**
-
----
-
-## 📫 Connect With Me
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/vishal-kumar-1247802ba/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://leetcode.com/u/VibeCoding01/" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
-  </a>
-  <a href="https://github.com/kumarv34605-star" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
+The structure will evolve as I cover more topics.
 
 ---
 
-> *"Learning, building, and improving one project at a time."*
+## 📝 How I Approach Problems
+
+The goal of this repository is not just to collect solutions.
+
+For each problem, I focus on:
+
+- 💡 Understanding the problem
+- 🧠 Identifying the underlying pattern
+- 🔍 Developing the approach
+- 💻 Implementing the solution in Python
+- ⏱️ Analyzing time complexity
+- 💾 Analyzing space complexity
+- 🧪 Considering edge cases
+- 🔁 Revisiting problems that I previously struggled with
+
+### Problem-Solving Process
+
+```text
+Understand
+    ↓
+Brute Force
+    ↓
+Identify Pattern
+    ↓
+Optimize
+    ↓
+Implement
+    ↓
+Analyze Complexity
+    ↓
+Review & Revisit
+```
+
+---
+
+## 🎯 Current Goal
+
+My focus is shifting from simply increasing the number of solved problems toward **stronger problem-solving ability**.
+
+### The goal:
+
+**Pattern Recognition → Optimization → Implementation → Interview Readiness**
+
+I want to be able to approach unfamiliar problems instead of relying on memorized solutions.
+
+---
+
+## 📚 What I'm Improving
+
+- Problem-solving speed
+- Pattern recognition
+- Complexity analysis
+- Writing clean Python solutions
+- Explaining solutions clearly
+- Handling edge cases
+- Solving medium-level problems consistently
+- Revisiting mistakes and failed approaches
+
+---
+
+## 🔗 Coding Profiles
+
+- 💻 **LeetCode:** https://leetcode.com/u/VibeCoding01/
+- 🧑‍💻 **GitHub:** https://github.com/kumarv34605-star
+
+---
+
+## 🚀 What's Next?
+
+- Continue solving DSA problems consistently
+- Strengthen Medium-level problems
+- Increase exposure to Hard problems
+- Complete remaining core DSA topics
+- Revisit previously solved problems
+- Practice timed problem solving
+- Prepare for technical interviews
+
+---
+
+> **Consistency → Understanding → Practice → Improvement 🚀**
