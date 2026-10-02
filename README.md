@@ -8,7 +8,6 @@
 
 ## 👨‍💻 About Me
 
-- 🎓 Final Year B.Tech student specializing in Artificial Intelligence & Machine Learning
 - 🤖 Building practical ML and AI systems
 - 🔄 Exploring MLOps and production ML workflows
 - 🧠 Building LLM and RAG applications
@@ -23,7 +22,7 @@
 ## 🛠️ Tech Stack
 
 ### Languages
-**Python** • **SQL** • **C++ (Learning)**
+**Python** • **SQL**
 
 ### Machine Learning & Data Science
 **NumPy** • **Pandas** • **Scikit-Learn** • **Matplotlib**
@@ -62,7 +61,7 @@
 
 ### 🤖 AI Incident Intelligence & MLOps Platform
 
-End-to-end project exploring machine learning, incident detection, experiment tracking and MLOps workflows.
+End-to-end platform exploring machine learning, incident detection, experiment tracking and production-oriented MLOps workflows.
 
 **Focus:** Python • Machine Learning • MLflow • Docker • MLOps
 
@@ -72,7 +71,7 @@ End-to-end project exploring machine learning, incident detection, experiment tr
 
 ### 🔎 AI Space Research Assistant
 
-RAG-based research assistant using document processing, embeddings and vector search to retrieve information from technical documents.
+RAG-based research assistant that processes technical documents and uses embeddings and vector search to retrieve relevant information.
 
 **Focus:** RAG • Sentence Transformers • ChromaDB • Embeddings • LLMs
 
@@ -80,9 +79,29 @@ RAG-based research assistant using document processing, embeddings and vector se
 
 ---
 
+### 🗄️ VDB — Vector Database From First Principles
+
+A systems project focused on understanding how database and vector-storage systems work internally rather than treating them as black boxes.
+
+**Exploring:**
+- Storage engines & disk persistence
+- Pages, records & serialization
+- Indexing & B+ Trees
+- Query execution
+- Transactions & WAL
+- Recovery & concurrency
+- Networking
+- Vector search
+
+**Stack:** C++ • Linux • CMake
+
+🔗 [View Repository](https://github.com/kumarv34605-star/vdb)
+
+---
+
 ### 📊 Customer Churn Pipeline
 
-Machine learning pipeline for predicting customer churn using a structured ML workflow.
+Machine learning pipeline for predicting customer churn using a structured data-processing and model-training workflow.
 
 **Focus:** Python • Pandas • Scikit-Learn • Machine Learning
 
@@ -92,7 +111,7 @@ Machine learning pipeline for predicting customer churn using a structured ML wo
 
 ### 🔥 Flask FWI Prediction
 
-Machine learning application for Fire Weather Index prediction with a Flask backend.
+Machine learning application for Fire Weather Index prediction with a Flask backend and REST-based inference workflow.
 
 **Focus:** Machine Learning • Scikit-Learn • Flask • REST API
 
@@ -107,29 +126,6 @@ Python CLI project focused on file analysis, structured logging and maintainable
 **Focus:** Python • CLI • Logging • Software Engineering
 
 🔗 [View Repository](https://github.com/kumarv34605-star/loggable-file-analyzer)
-
----
-
-## 🧪 Side Quest — VDB
-
-### 🗄️ VDB — Building a Database From First Principles
-
-A systems project focused on understanding how database and vector-storage systems work internally rather than treating them as black boxes.
-
-**Exploring:**
-- Storage engines & disk persistence
-- Pages, records and serialization
-- Indexing & B+ Trees
-- Query execution
-- Transactions & WAL
-- Recovery
-- Concurrency
-- Networking
-- Vector search
-
-**Stack:** C++ • Linux • CMake
-
-🔗 [View Repository](https://github.com/kumarv34605-star/vdb)
 
 ---
 
@@ -164,75 +160,3 @@ LLM Applications & RAG
 MLOps & ML Engineering
        ↓
 AI Infrastructure
-```
-
-Alongside:
-
-```text
-DSA → Backend Development → Systems Fundamentals
-```
-
----
-
-## 🌍 Open Source
-
-Exploring open-source development and learning how real-world software is built, reviewed and maintained.
-
-🔗 [GitHub Profile](https://github.com/kumarv34605-star)
-
----
----
-
-## 📊 GitHub Activity
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kumarv34605-star&theme=github_dark" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=kumarv34605-star&theme=github-dark" />
-</p>
-
----
-
-## 🐍 Contribution Activity
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/kumarv34605-star/kumarv34605-star/output/github-contribution-grid-snake-dark.svg" />
-</p>
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img
-    src=".github/assets/trophy.svg"
-    alt="GitHub Trophies"
-  />
-</p>
-
-
----
-
-### 📫 Connect With Me
-
-<p align="left">
-
-<a href="https://www.linkedin.com/in/vishal-kumar-1247802ba/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-
-<a href="https://leetcode.com/u/VibeCoding01/">
-<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
-</a>
-
-<a href="https://github.com/kumarv34605-star">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-</p>
-
----
-
-> *Learning, building, and improving one system at a time.*
