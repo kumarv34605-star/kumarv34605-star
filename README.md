@@ -212,7 +212,8 @@ Exploring open-source development and learning how real-world software is built,
   />
 </p>
 ---
-## 📫 Connect With Me
+
+### 📫 Connect With Me
 
 <p align="left">
 
