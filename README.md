@@ -1,6 +1,6 @@
 # Hi 👋, I'm Vishal Kumar
 
-### 🚀 Aspiring AI Engineer | Machine Learning • MLOps • AI Infrastructure
+### 🚀 AI/ML Engineer in Progress | Machine Learning • MLOps • AI Infrastructure
 
 🎓 Final Year B.Tech Student — Artificial Intelligence & Machine Learning • Graduating 2027
 
@@ -8,51 +8,53 @@
 
 ## 👨‍💻 About Me
 
-- 🤖 Building practical Machine Learning and AI applications
-- 🧠 Learning Deep Learning, LLMs, MLOps and AI Engineering
-- 🐍 Working primarily with Python for ML, backend and automation
-- ⚙️ Exploring AI Infrastructure and production ML systems
-- 🔎 Building RAG and LLM-based applications
-- 🐳 Learning to build, containerize and deploy ML applications
-- 🌍 Exploring Open Source and real-world software engineering
-- 💻 Solving Data Structures & Algorithms consistently using Python
+- 🎓 Final Year B.Tech student specializing in Artificial Intelligence & Machine Learning
+- 🤖 Building practical ML and AI systems
+- 🔄 Exploring MLOps and production ML workflows
+- 🧠 Building LLM and RAG applications
+- ⚡ Exploring AI Infrastructure and systems engineering
+- 🗄️ Building a database/vector-storage system from first principles
+- 🐍 Primarily working with Python
+- 💻 Strengthening DSA and software engineering fundamentals
+- 🌍 Exploring open-source development
 
 ---
 
 ## 🛠️ Tech Stack
 
 ### Languages
-**Python** • **SQL**
+**Python** • **SQL** • **C++ (Learning)**
 
 ### Machine Learning & Data Science
 **NumPy** • **Pandas** • **Scikit-Learn** • **Matplotlib**
 
-### AI & LLMs
-**Embeddings** • **RAG** • **Sentence Transformers** • **ChromaDB**
+### AI & LLM Applications
+**RAG** • **Embeddings** • **Sentence Transformers** • **ChromaDB**
 
 ### Backend & APIs
-**Flask** • **FastAPI (Learning)** • **REST APIs**
+**Flask** • **REST APIs** • **FastAPI (Learning)**
 
 ### Databases
 **MySQL** • **PostgreSQL (Learning)** • **MongoDB (Learning)**
 
-### DevOps & Tools
+### DevOps & Engineering
 **Git** • **GitHub** • **Docker** • **Linux** • **VS Code**
 
 ### Currently Learning
-**Deep Learning** • **PyTorch** • **TensorFlow** • **MLflow** • **MLOps** • **LLMs** • **AI Infrastructure**
+**C++** • **Deep Learning** • **PyTorch** • **TensorFlow** • **MLflow** • **MLOps** • **LLMs** • **AI Infrastructure**
 
 ---
 
 ## 🚀 Current Focus
 
 - 🧠 Machine Learning Engineering
-- 🤖 Deep Learning & LLM Applications
-- 🔄 MLOps & ML Lifecycle
+- 🔄 MLOps & production ML workflows
+- 🤖 LLM applications & RAG
 - ⚡ AI Infrastructure
+- 🗄️ Database & Vector Database Systems
 - 🐳 Docker & Backend Development
 - 💻 Data Structures & Algorithms
-- 🌍 Open Source Contributions
+- 🌍 Open Source & Systems Engineering
 
 ---
 
@@ -108,30 +110,43 @@ Python CLI project focused on file analysis, structured logging and maintainable
 
 ---
 
-### 🧠 MNIST From Scratch
+## 🧪 Side Quest — VDB
 
-Exploring neural network fundamentals by implementing machine learning concepts from scratch.
+### 🗄️ VDB — Building a Database From First Principles
 
-**Focus:** Python • NumPy • Neural Networks • Deep Learning
+A systems project focused on understanding how database and vector-storage systems work internally rather than treating them as black boxes.
 
-🔗 [View Repository](https://github.com/kumarv34605-star/mnist-from-scratch)
+**Exploring:**
+- Storage engines & disk persistence
+- Pages, records and serialization
+- Indexing & B+ Trees
+- Query execution
+- Transactions & WAL
+- Recovery
+- Concurrency
+- Networking
+- Vector search
+
+**Stack:** C++ • Linux • CMake
+
+🔗 [View Repository](https://github.com/kumarv34605-star/vdb)
 
 ---
 
 ## 💻 DSA & Problem Solving
 
-Building strong problem-solving skills alongside AI/ML development.
+Building strong problem-solving skills alongside AI/ML and systems development.
 
-### LeetCode
-
-- 🧩 **395 problems solved**
-- 🟢 205 Easy
-- 🟡 151 Medium
-- 🔴 39 Hard
-- 🔥 **147-day maximum streak**
-- 📅 **231 active days**
-- 🏆 **200 Days Badge — 2026**
-- 📈 Contest Rating: **1,579**
+- 🧩 **427 problems solved**
+- 🟢 218 Easy
+- 🟡 167 Medium
+- 🔴 42 Hard
+- 🏆 **Contest Rating: 1700**
+- 📈 **Top 14.09%**
+- 🔥 **157-day maximum streak**
+- 📅 **241 active days**
+- 🏅 **7 badges**
+- 🎯 **10 contests attended**
 
 🔗 [View LeetCode Profile](https://leetcode.com/u/VibeCoding01/)
 
