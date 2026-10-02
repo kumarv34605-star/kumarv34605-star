@@ -211,6 +211,8 @@ Exploring open-source development and learning how real-world software is built,
     alt="GitHub Trophies"
   />
 </p>
+
+
 ---
 
 ### 📫 Connect With Me
