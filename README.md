@@ -150,7 +150,6 @@ Building strong problem-solving skills alongside AI/ML and systems development.
 
 ## 🌱 Learning Path
 
-```text
 Machine Learning
        ↓
 Deep Learning
@@ -160,3 +159,83 @@ LLM Applications & RAG
 MLOps & ML Engineering
        ↓
 AI Infrastructure
+
+
+
+---
+## Alongside: 
+DSA → Backend Development → Systems Fundamentals
+
+---
+
+## 🌍 Open Source
+
+Exploring open-source development and learning how real-world software is built, reviewed and maintained.
+
+🔗 [GitHub Profile](https://github.com/kumarv34605-star)
+
+---
+
+## 📊 GitHub Activity
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kumarv34605-star&theme=github_dark" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=kumarv34605-star&theme=github-dark" />
+</p>
+
+---
+
+## 🐍 Contribution Activity
+
+<p align="center">
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/kumarv34605-star/kumarv34605-star/output/github-contribution-grid-snake-dark.svg"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/kumarv34605-star/kumarv34605-star/output/github-contribution-grid-snake.svg"
+    />
+    <img
+      alt="GitHub Contribution Snake"
+      src="https://raw.githubusercontent.com/kumarv34605-star/kumarv34605-star/output/github-contribution-grid-snake.svg"
+    />
+  </picture>
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img
+    src=".github/assets/trophy.svg"
+    alt="GitHub Trophies"
+  />
+</p>
+
+---
+
+## 📫 Connect With Me
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/vishal-kumar-1247802ba/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+
+  <a href="https://leetcode.com/u/VibeCoding01/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+  </a>
+
+  <a href="https://github.com/kumarv34605-star">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
+---
+
+> *Learning, building, and improving one system at a time.*
