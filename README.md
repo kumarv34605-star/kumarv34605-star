@@ -148,8 +148,11 @@ Building strong problem-solving skills alongside AI/ML and systems development.
 
 ---
 
+---
+
 ## 🌱 Learning Path
 
+```
 Machine Learning
        ↓
 Deep Learning
@@ -159,9 +162,7 @@ LLM Applications & RAG
 MLOps & ML Engineering
        ↓
 AI Infrastructure
-
-
-
+```
 ---
 ## Alongside: 
 DSA → Backend Development → Systems Fundamentals
